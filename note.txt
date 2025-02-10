@@ -1,0 +1,193 @@
+ <div class="custom-select">
+                <div class="dropdown">
+                  <div class="dropdown-toggle" data-toggle="dropdown">
+                    <i class="fa-solid fa-house"></i> Lusaka
+                  </div>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">
+                      <i class="fa-solid fa-house"></i> Lusaka
+                    </a>
+                    <!-- Add more options here -->
+                  </div>
+                </div>
+              </div>
+
+
+
+
+              <img src="/build/img/ab3cab618113cc4770d93050dbb84b6d.jpg"  alt="...">
+             <div class="slide-text">
+                <h4>Modern House</h4>
+                <h5>$4199.99/ month</h5>
+                <p>Juneau, Alaska</p>
+                <div class="icons">
+                    <p>2.7K sq ft</p>
+                    <p>6</p>
+                    <p>6</p>
+                    <p>3</p>
+                </div>
+                </div>
+
+
+
+                
+  <div class="agent-container">
+    <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent ">Contact Agent</button>
+      </div>
+    </div>
+  <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent">Contact Agent</button>
+      </div>
+    </div>
+  <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent">Contact Agent</button>
+      </div>
+    </div>
+
+
+
+     <div class="agent-container">
+    <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent ">Contact Agent</button>
+      </div>
+    </div>
+  <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent">Contact Agent</button>
+      </div>
+    </div>
+  <div class="agents">
+      <div class="img">
+       
+        <div class="name">
+          <img src="/build/img/4eca6080adf4a40bf122ec344b6016d5.jfif" alt="">
+          <div class="pro">
+            <h5>Emily soccker</h5>
+            <p class="txt">5.0  <span> <i class="fa-solid fa-star"></i>  </span> </i></p>
+
+          </div>
+        </div>
+        
+        <div class="property">
+          <p><i class="fa-solid fa-house"></i> 122 Properties sold</p>
+          <hr>
+          <p><i class="fa-regular fa-calendar-check"></i> 15 years Experience</p>
+          <hr>
+          <p><i class="fa-solid fa-tv"></i>5 0+ Professional Affiliations</p>
+          <hr>
+          <p><i class="fa-solid fa-award"></i> 4 Awards for client service</p>
+        </div>
+        <button class="btn-agent">Contact Agent</button>
+      </div>
+    </div>
+
+  </div>
+    
+    <ul>
+        <li>2 The expansive living room</li>
+        <li>2 The expansive living room</li>
+        <li>2 The expansive living room</li>
+        <li>2 The expansive living room</li>
+        <li>2 The expansive living room</li>
+        <li>2 The expansive living room</li>
+      </ul>
